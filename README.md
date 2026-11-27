@@ -5,8 +5,9 @@
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/md_rakibul_islam_bd)
-[![Pinterest](https://img.shields.io/badge/Pinterest-Explore-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/md_rakibul_islam_bd)
+[![Instagram](https://img.shields.io/badge/Instagram-md.rakibul.islam__-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161B22)](https://instagram.com/md.rakibul.islam__)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161B22)](https://t.me/md_rakibul_islam_bd)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Explore-0D1117?style=for-the-badge&logo=pinterest&logoColor=BD081C&labelColor=161B22)](https://pin.it/md_rakibul_islam_bd)
 
 </div>
 
@@ -24,7 +25,7 @@
 
 ### 🔗 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
-| Platform | Link |
+| Platform | Handle / Link |
 | :--- | :--- |
 | **Instagram** | `md.rakibul.islam__` |
 | **Telegram** | [t.me/md_rakibul_islam_bd](https://t.me/md_rakibul_islam_bd) |
